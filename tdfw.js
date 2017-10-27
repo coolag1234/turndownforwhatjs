@@ -67,7 +67,7 @@
 			player = new YT.Player('tdfw', {
 				height: '200',
 				width: '305',
-				videoId: 'HMUDVMiITOU',
+				videoId: '0vxL8piVmBQ',
 				events: {
 					'onReady': onPlayerReady,
 					'onStateChange': onPlayerStateChange
@@ -105,7 +105,7 @@
 			removeCurStyles()
 		}
 	}
-	//<iframe width="560" height="315" src="//www.youtube.com/embed/HMUDVMiITOU?autoplay=1" frameborder="0" allowfullscreen></iframe>
+	//<iframe width="560" height="315" src="//www.youtube.com/embed/0vxL8piVmBQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
 	
 	function setupAnimations() {
 		var numKeyFrames = 10
